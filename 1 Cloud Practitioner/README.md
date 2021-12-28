@@ -91,3 +91,9 @@
     
   - Sustainability🌲🌲🌲  
     https://sustainability.aboutamazon.com/
+    
+<br>
+    
+ ### References📖👀
+
+  - All lecture slides by [Andrew Brown](https://www.youtube.com/c/ExamProChannel) from [Exampro](https://app.exampro.co/).
