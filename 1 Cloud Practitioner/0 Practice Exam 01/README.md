@@ -2,6 +2,36 @@
 
 [References down below👇](#ref)
 
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions01.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions02.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions03.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions04.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions05.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions06.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions07.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions08.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions09.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions10.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions11.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions12.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions13.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions14.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions15.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions16.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions17.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions18.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions19.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions20.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions21.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions22.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions23.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions24.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions25.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions26.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions27.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions28.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions29.jpg" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions30.jpg" width=900/>
 <img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions31.jpg" width=900/>
 <img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions32.jpg" width=900/>
 <img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/0 Practice Exam 01/Exam Questions33.jpg" width=900/>
