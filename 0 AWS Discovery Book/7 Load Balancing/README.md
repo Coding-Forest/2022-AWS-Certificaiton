@@ -1,14 +1,13 @@
 # 🌐 Network Traffic Load Balancing 🚙🚗🚓🚚🚒🏍️🚴
 
-  - create 2 web servers
-  - create a web page for load balance test
-  - configure ELB and add an instance
-    - test if ELB works in case of server failure 
-    - examine post-recovery behaviour
+### ⚙️Key Components & Key Concepts
+
+  - `SSH`: Secure Shell is a cryptographic network protocol for operating network services securely over an unsecured network. Typical applications include remote command-line, login, and remote command execution, but any network service can be secured with SSH.
+  - `EC2`: Amazon Elastic Compute Cloud is a part of Amazon.com's cloud-computing platform, Amazon Web Services, that allows users to rent virtual computers on which to run their own computer applications.
 
 <br>
 
-## Virtualisation and Virtual machine⚡🖥️ 
+## 🖥️⚡ Virtualisation and Virtual machine 
 
   - Creating a virtual computer using Hypervisor
   - Abstracts away the OS
@@ -38,6 +37,15 @@
    - 🛡️ A security group is a set of firewall🔥🧱 rules that control the traffic for your instance.  
 
 <br>
+
+## 🙌⌨️ Hands-on Practice Guidelines
+
+    - create 2 web servers
+    - create a web page for load balance test
+    - configure ELB and add an instance
+      - test if ELB works in case of server failure 
+      - examine post-recovery behaviour
+
 
 ### References
 
