@@ -124,10 +124,19 @@
 
 <br>  
 
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-6%20S3%20bucket1.png" width=750 />
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-6%20S3%20bucket2.png" width=750 />
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-6%20S3%20bucket3.png" width=750 />
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-6-2%20Backup%20data1.png" width=750 />
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-6-2%20Backup%20data2.png" width=750 />
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-6-2%20Backup%20data3.png" width=750 />
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-6-2%20Backup%20data4.png" width=750 />
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-7%20AMI%20recovery1.png" width=750 />
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/3%20Storage/3-7%20AMI%20recovery2.png" width=750 />
 
+<br>
 
 ### References}  
 
   - Yeonghwan Gwon(2021) AWS Discovery Book
 
-Process finished with exit code 0
