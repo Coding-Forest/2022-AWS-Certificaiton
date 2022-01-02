@@ -5,10 +5,7 @@ Revision: 29~34p
 [1. 🖥️Server & 🗄️Storage](#1)  
 [2. 🛡️Security & 🔥🧱Firewall](#2)  
 [3. ☁️Cloud terms](#3)  
-[4. ](#4)  
-[5. ](#5)  
-[6. ](#6)
-[7. ](#7)
+[4. 🛡️Security Groups🔥🧱](#4)  
 
 ### ⚙ Key Components & Key Concepts
 
@@ -65,31 +62,13 @@ Revision: 29~34p
     - 2) Only Allow policy available for network traffic and NO Deny policy
       - Use `VPC` (Virtual Private Cloud)'s `ACL` (Network ACL) instead
     - 3) Control inbound / outbound traffic separately
-      - 
 
-<br>  
-
-**<span id="5">5. **</span>  
-
-  -   
-
-<br>  
-
-**<span id="6">6. **</span>  
-
-  -   
-
-<br>  
-
-**<span id="7">7. **</span>  
-
-  -   
-
-<br>  
+<br>
 
 ## 🙌⌨ Hands-on Practice   
 
-  -   
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/2%20Server/2-6%20EC2%20Linux%20instance.png" width=600/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/2%20Server/2-6%20EC2%20Linux%20instance%202.png" width=600/>
 
 <br>  
 
