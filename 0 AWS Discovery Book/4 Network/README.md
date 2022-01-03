@@ -1,4 +1,4 @@
-# Network  
+# 🌐Network  
 
 [1. VPN](#1)  
 [2. VPC](#2)  
@@ -22,9 +22,9 @@
 **<span id="2">2. VPC**</span>  
 
   - Virtual Private Cloud
-    - allocates logically separted network space to a virtual network that uses AWS resources.
+    - allocates logically isolated network space to a virtual network that uses AWS resources.
     - allows a complete control of network configuration
-      - IP address range, subnet, routing table, network gateway configuration
+      - IP address range, subnet, route table, network gateway configuration
       - IPv4, IPv6 
       - Safe access to resources and applications
     - Characteristics
@@ -66,7 +66,7 @@
     - Private subnet: NOT routed to IGW
       - ex) 🗄️DB server (as it requires stronger security)
   
-  - Routing table
+  - Route table
     - Each subnet should be connected to the routing table which allocates the permitted path to the outbound traffic (which goes out of subnet)
     - Each created subnet is connected to the default routing table by default.
 
@@ -95,7 +95,24 @@
 
 ## 🙌⌨ Hands-on Practice   
 
+  1) Create a VPC with 2 subnets (1 private, 1 public)
+  2) Inter-Region VPC peering
+    - Create VPCs in Seoul and London, respectively.
+      - Seoul: VPC with a public and private subnets
+      - London: VPC with a public subnet only
+    - Create an EC2 in Seoul and London, respectively.
+      - When creating, be sure to configure the network in instance detail setup. 
+    - Test the peering connection between Seoul and London through PuTTY.
 
+<br>
+
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/4%20Network/4-1&20VPC&20services.png" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/4%20Network/4-2&20VPCs.png" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/4%20Network/4-7-1&20create&20VPC.png" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/4%20Network/4-7-2&20Peering&20request&20sent.png" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/4%20Network/4-7-3&20Accept&20peering&20request.png" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/4%20Network/4-7-4&20Route&20tablepng.png" width=900/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/4%20Network/4-7-5&20inter-region&20peering&20successful.png" width=900/>
 
 <br>  
 
