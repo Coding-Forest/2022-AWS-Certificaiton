@@ -47,12 +47,19 @@
 
 ## 🙌⌨ Hands-on Practice   
 
-  -   
+  1) Create MySQL database on AWS RDS
+    - Download MySQL workbench and try connecting to the AWS db (failed😿) 🐰🥕
+    - Try video tutorial (Be a Better Dev, 2019)
+      - 
+  2) Connect MySQL database to PHP application running on web server
+
+3) 
 
 <br>  
 
 ### References}  
 
   - Yeonghwan Gwon(2021) AWS Discovery Book
+  - Be A Better Dev (2019) AWS RDS MySQL Database Setup | Step by Step Tutorial https://www.youtube.com/watch?v=Ng_zi11N4_c&ab_channel=BeABetterDev
 
 Process finished with exit code 0
