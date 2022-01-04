@@ -50,15 +50,28 @@
   - 1) Create MySQL database on AWS RDS
     - Download MySQL workbench and try connecting to the AWS db (failed😿) 🐰🥕
     - Try video tutorial (Be a Better Dev, 2019)
-      - 
+    
+    
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database/5-5-1%20mysql%20connection%20successful.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database/5-5-2%20mysql%20connection%20detail.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database//5-6%20Install%20Apache%20server%2001.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database//5-6%20Install%20Apache%20server%2002%20connect%20apach%20to%20db.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database//5-6%20Install%20Apache%20server%2003%20create%20a%20page.png" width=750/>
+
+
+<br>
+    
   - 2) Connect MySQL database to PHP application running on web server
+    - Install an Apache web server with PHP
+    - Create MySQL db on RDS
+    - Connect the db to the PHP application to service the db.
+  
+
 
   - 3) 
 
 <br>  
 
-<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database/5-5-1%20mysql%20connection%20successful.png" width=750/>
-<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database/5-5-2%20mysql%20connection%20detail.png" width=750/>
 
 <br>
 
