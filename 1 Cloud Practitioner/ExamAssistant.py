@@ -1,3 +1,4 @@
+import re
 import datetime
 import numpy as np
 import pandas as pd
@@ -12,8 +13,8 @@ class ExamAssistant:
         self.marks = []
         self.wrong_answers = []
 
-    def mark_answers(self):
 
+    def mark_answers(self):
         for i in range(1, self.exam_size + 1):
             if (i <= 9):
                 a = input(f"Enter your answer for Q 0{i}: ")
@@ -22,14 +23,18 @@ class ExamAssistant:
                 a = input(f"Enter your answer for Q {i}: ")
                 self.answers.append(a.upper())
 
+
     def grade_result(self):
         for i in range(len(self.answers)):
             if (self.answers[i] != self.correct_answers[i]):
                 self.wrong_answers.append(i+1)
 
+
     def enter_correct_answers(self):
         correct_answers = input("Enter correct answers: ").upper()
+        correct_answers = re.sub(" +", " ", correct_answers)
         self.correct_answers = list(correct_answers.split(" "))
+
 
     def report_performance(self):
         print(f"Your Answers   : {self.answers}")
@@ -41,6 +46,7 @@ class ExamAssistant:
         print(f"======================= Result ======================= ")
         print(f"Correct: {len(self.correct_answers) - len(self.wrong_answers)}\nIncorrect: {len(self.wrong_answers)}")
         print(f"Questions for revision:\n{self.wrong_answers}")
+
 
     def save_answers(self):
         for i in range(len(self.answers)):
@@ -55,8 +61,9 @@ class ExamAssistant:
         today = datetime.datetime.today()
         today = today.strftime("%m%d")
 
+        file_name = input("Enter file name to save your answer: ")
         df.index = np.arange(1, len(self.answers) + 1)
-        df.to_csv(f'./exam ({today}).xlsx')
+        df.to_csv(f'./{file_name} ({today}).csv')
 
 
     def main(self):
@@ -73,29 +80,3 @@ if __name__ == "__main__":
     ea = ExamAssistant(10)
     ea.main()
     ea.save_answers()
-
-    
-"""
-Enter your answer for Q 01: c
-Enter your answer for Q 02: b
-Enter your answer for Q 03: d
-Enter your answer for Q 04: d
-Enter your answer for Q 05: b
-Enter your answer for Q 06: b
-Enter your answer for Q 07: c
-Enter your answer for Q 08: a
-Enter your answer for Q 09: a
-Enter your answer for Q 10: b
-Enter correct answers: C B D D B B C B A d
-Your Answers   : ['C', 'B', 'D', 'D', 'B', 'B', 'C', 'A', 'A', 'B']
-Correct Answers: ['C', 'B', 'D', 'D', 'B', 'B', 'C', 'B', 'A', 'D']
-
-======================= Result ======================= 
-Correct: 8
-Incorrect: 2
-Questions for revision:
-[8, 10]
-
-Process finished with exit code 0
-
-"""
