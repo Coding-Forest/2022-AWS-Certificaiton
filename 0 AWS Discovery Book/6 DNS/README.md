@@ -28,5 +28,4 @@
 ### References}  
 
   - Yeonghwan Gwon(2021) AWS Discovery Book
-
-Process finished with exit code 0
+  - CertBros (2021) DNS Explained | Domain Name System | Cisco CCNA 200-301 https://www.youtube.com/watch?v=FsGUi5pXpLk&ab_channel=CertBros
