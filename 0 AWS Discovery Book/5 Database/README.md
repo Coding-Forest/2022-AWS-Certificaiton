@@ -57,9 +57,8 @@
 
 <br>  
 
-<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/5%20Database/5-5-1%20mysql%20connection%20successful.png" width=900/>
-<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/1%20Cloud%20Practitioner/5%20Database/5-5-2%20mysql%20connection%20detail.png" width=900/>
-
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database/5-5-1%20mysql%20connection%20successful.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Discovery%20Book/5%20Database/5-5-2%20mysql%20connection%20detail.png" width=750/>
 
 <br>
 
