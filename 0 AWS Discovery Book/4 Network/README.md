@@ -19,18 +19,18 @@
 
 <br>
 
-  **VPC associations**
-  Your default VPC contains the following. You will lose all these objects associated with your VPC once you delete it.
-    - 🥅Subnets (
-    - 🛡️Security groups 
-    - 🗒️Network ACLs 
-    - 🚪Internet gateways
-    - 🚪Egress only internet gateways
-    - 📶Route tables
-    - 🌐Network interfaces
-    - 🛳️Peering connections
-    - 🚩Endpoints 
-    
+  - **VPC associations**  
+  Your default VPC contains the following. You will lose all these objects associated with your VPC once you delete it.  
+    - 🥅Subnets  
+    - 🛡️Security groups   
+    - 🗒️Network ACLs   
+    - 🚪Internet gateways  
+    - 🚪Egress only internet gateways  
+    - 📶Route tables  
+    - 🌐Network interfaces  
+    - 🛳️Peering connections  
+    - 🚩Endpoints   
+      
 <br>  
 
 **<span id="2">2. VPC**</span>  
