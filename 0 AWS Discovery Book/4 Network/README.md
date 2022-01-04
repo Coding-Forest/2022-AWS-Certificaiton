@@ -17,6 +17,20 @@
     - VPC (Virtual Private Cloud)
     - VPC Gateway
 
+<br>
+
+  **VPC associations**
+  Your default VPC contains the following. You will lose all these objects associated with your VPC once you delete it.
+    - 🥅Subnets (
+    - 🛡️Security groups 
+    - 🗒️Network ACLs 
+    - 🚪Internet gateways
+    - 🚪Egress only internet gateways
+    - 📶Route tables
+    - 🌐Network interfaces
+    - 🛳️Peering connections
+    - 🚩Endpoints 
+    
 <br>  
 
 **<span id="2">2. VPC**</span>  
@@ -96,13 +110,13 @@
 ## 🙌⌨ Hands-on Practice   
 
   1) Create a VPC with 2 subnets (1 private, 1 public)
-  2) Inter-Region VPC peering
-    - Create VPCs in Seoul and London, respectively.
-      - Seoul: VPC with a public and private subnets
-      - London: VPC with a public subnet only
-    - Create an EC2 in Seoul and London, respectively.
-      - When creating, be sure to configure the network in instance detail setup. 
-    - Test the peering connection between Seoul and London through PuTTY.
+  2) Inter-Region VPC peering  
+    - Create VPCs in Seoul and London, respectively.  
+      - Seoul: VPC with a public and private subnets    
+      - London: VPC with a public subnet only    
+    - Create an EC2 in Seoul and London, respectively.    
+      - When creating, be sure to configure the network in instance detail setup.    
+    - Test the peering connection between Seoul and London through PuTTY.  
 
 <br>
 
@@ -120,6 +134,3 @@
 
   - Yeonghwan Gwon(2021) AWS Discovery Book
   - Cobalt Ridge (2017) Simple Concepts: CIDR Notation https://www.youtube.com/watch?v=u13AdjAUNmA&ab_channel=CobaltRidge
-
-Process finished with exit code 0
-
