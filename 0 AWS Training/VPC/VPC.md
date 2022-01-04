@@ -38,6 +38,18 @@
 
 <br> 
 
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2001%20IP%20makeup.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2002%20RFC1918.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2003%20subnets.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2004%20VPC%20recommendations.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2005%20security%20group.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2006%20security%20group%20example%20backend.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2006%20security%20group%20example.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2007%20NAT%20gateway.png" width=750/>
+<img src="https://github.com/Coding-Forest/2022-AWS-Certificaiton/blob/main/0%20AWS%20Training/VCP/VPC%2008%20NAT%20gateway%20config.png" width=750/>
+
+<br> 
+
 ### References
 
   - Amazon Web Services Korea (2017) Create virtual data centre - VPC basics and connection options - Solutions Architect YANG Seungdo (AWS Korea) https://www.youtube.com/watch?v=R1UWYQYTPKo&ab_channel=AmazonWebServicesKorea
