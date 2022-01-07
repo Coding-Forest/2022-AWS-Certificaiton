@@ -14,10 +14,14 @@ Host your application across multiple regions for disaster recovery.
     - regional-level horizontality 
 
 
-- **High availability**
+- **High availability*
   - Fault-tolerant (failure-resistant)
   - Your system continues operating despite failures or malfunctions.
     - AWS acheves this through instance multiplication. 
+  
+  - Fault-tolerance
+    - Fault-tolerance is the ability for a system to remain in operation even if some of the components used to build the system fail.
+
 - **Global availability** 
   - Horizontal, geographical, across physical areas  
   
@@ -28,7 +32,8 @@ Host your application across multiple regions for disaster recovery.
     - An international company needs to provide low-latency applications for **_customers around the world_**.
         - Global reach (vs. high availability?)
   - High availabilty
-    - You can design your systems in the AWS cloud to withstand the failure of an individual or multiple components. 
+    - You can design your systems in the AWS cloud to _**withstand the failure**_ of an individual or multiple components. 
+    - You are planning to serve a web application on the AWS Platform by using EC2 Instances. Which of the below principles would you adopt to ensure that even if some of the EC2 Instances crashes, you still have a working application
 
 <br>
 
@@ -49,6 +54,22 @@ Everything will fail - helps build a highly available + fault-tolerant system.
 - Example statements 
 
 <br>
+
+
+## Load Balancing
+
+- 🔑Key concepts 
+  - ELB (Elastic Load Balancing)
+
+With ELB, you can configure ELB policies to allow for automatic scaling of the scalable AWS resources for your application. Not to be confused here:
+  - ELB handles (distributes) traffic evenly across the existing AWS resources. Meaning, it is designed to handle the incoming external entities (that is NOT part of AWS).
+  - Auto-scaling, on the other hand, handles what is part of AWS by increasing the number of AWS entities). 
+
+- 💬Example statements 
+  - ________ allows you to _**increase the number of resources**_ on the demand of the application or users (AWS Auto Scaling).
+
+<br>
+
 
 
 
@@ -141,6 +162,18 @@ Everything will fail - helps build a highly available + fault-tolerant system.
 <br>
 
 
+## Security
+
+- 🔑Key concepts 
+  - Security group (instance-level)
+  - NACL (network-level)
+
+- 💬Example statements 
+  -  NACL is associated with a Subnet in a VPC to protect against Incoming traffic requests.
+
+<br>
+
+
 
 
 ## 🗄️Storage 
@@ -150,12 +183,13 @@ Everything will fail - helps build a highly available + fault-tolerant system.
   - EFS: inter-EC2 hard drive and images can be shared.
   - S3: stand-alone storage that can be accessed via internet. 
 
+S3 is a file-based storage and EBS is a block-based storage. Because the storage unit is different, transferring data between these two storage systems is not entirely compatible. To save EBS blocks, you have to take a snapshot of it and save it to S3 EBS Snapshot. 
 
 - 💬Example statements 
+  -  ______ is a way to back up an EBS Volume (EBS snapshot)
   -  
 
 <br>
-
 
 
 ## CloudTrail👣 vs. CloudWatch👀
@@ -182,6 +216,8 @@ Everything will fail - helps build a highly available + fault-tolerant system.
 
 "_Fault tolerance is a process that enables an operating system to respond to a failure in hardware or software. This fault-tolerance definition refers to the system's ability to continue operating despite failures or malfunctions._ (Fortinet, n.d.)"
 
+
+##
 
 - 🔑Key concepts 
   - 
