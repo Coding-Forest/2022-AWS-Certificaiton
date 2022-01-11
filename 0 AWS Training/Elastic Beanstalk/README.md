@@ -3,6 +3,10 @@
 ## Notes 
 
   - No extra charge. Pay for the AWS resources (EC2, S3, etc)
+  - Applications:
+    - 🌐web site
+    - 📲mobile backend
+    - API backend
 
 
 <br>
